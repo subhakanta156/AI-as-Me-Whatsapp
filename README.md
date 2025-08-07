@@ -28,7 +28,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/adityak8340/AI-as-Me-Whatsapp.git
+git clone https://github.com/subhakanta156/AI-as-Me-Whatsapp.git
 cd AI-as-Me-Whatsapp
 ```
 
